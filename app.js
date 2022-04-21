@@ -84,6 +84,7 @@ class Store {
   };
 }
 
+//some comment
 document.getElementById("alert").style.display = "none";
 
 document.addEventListener("DOMContentLoaded", UI.displayBooks);
